@@ -1,4 +1,4 @@
-# android_persistence
+# Android Persistence App
 Android app that contains examples of persistence
 
 ## Examples
