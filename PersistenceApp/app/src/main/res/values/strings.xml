@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PersistenceApp</string>
+    <string name="action_about">About</string>
+
+    <string name="dialog_button">OK</string>
+    <string name="dialog_title">About Me</string>
+    <string name="dialog_message">Developed by DeKoServidoni\n Follow me on Twitter and my blog: https://androidko.wordpress.com/</string>
+
+    <string name="fragment_sp_button_save">Save</string>
+    <string name="fragment_sp_button_load">Load</string>
+    <string name="fragment_sp_input_hint">Enter text here&#8230;</string>
+
+</resources>
